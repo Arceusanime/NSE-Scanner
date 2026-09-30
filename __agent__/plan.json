@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "title": "Inspect existing repository and map reusable architecture",
+      "status": "done"
+    },
+    {
+      "title": "Design and implement backend domain, persistence, providers, collection, and analysis",
+      "status": "in-progress"
+    },
+    {
+      "title": "Build frontend dashboard, scanner, chart, monitor, history, and settings",
+      "status": "pending"
+    },
+    {
+      "title": "Add tests, documentation, configuration, and integration wiring",
+      "status": "pending"
+    },
+    {
+      "title": "Run validation, fix errors, and summarize deliverables",
+      "status": "pending"
+    }
+  ],
+  "updated_at": "2026-09-30T15:08:59.511Z",
+  "session_id": "01a0f297-8816-755d-a80e-dfa027018600"
+}
